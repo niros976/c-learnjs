@@ -1,0 +1,63 @@
+body {
+	font-size: 16px;
+	color: #FFFFFF;
+	background-color: #8aafea;
+	font-family:"Oxygen", sans-serif;
+}
+
+/* HEADER */ 
+#header-nav {
+	background-color: #4678c9;
+	border-radius: 0;
+	border:0;
+}
+
+.navbar-brand {
+	padding-top: 25px;
+}
+
+.navbar-brand h1 { /* Name */
+	color: #C97c3e;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+ }
+
+ #nav-list {
+ 	margin-top: 0;
+ 	margin-bottom: 0;
+ 	color: #C97c3e;
+ 	font-weight: bold;
+ 	text-align: center;
+ 	background-color: #40FFFF;
+ }
+
+ #nav-list li:hover {
+ 	background: #E7E7E7;
+ }
+
+ .navbar-header button.navbar-toggle {
+ 	clear: both;
+ 	margin-top: -30px;
+ }
+
+ .container h2 {
+ 	color: #2417d8;
+ }
+
+ .container #menu-tile {
+ 	color: #000000;
+ 	background-color:#e2c068;
+ 	margin: 5px;
+ }
+
+ .container #menu-tile div .menu-title{
+ 	color: #e20657;
+ 	font-size: 1.3em;
+ 	text-align: center;
+ 	margin-bottom: 10px;
+ }
